@@ -2,3 +2,37 @@
     color: blueviolet;
 }
 
+body{
+    background-color: black;
+}
+
+.first_left_side{
+    align-content: center !important;
+    
+}
+
+.boton{
+    padding: 20px;
+}
+
+p{
+    text-align: center;
+}
+h1{
+    color: blueviolet;
+    text-align: center;
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+.first_img_right_side{
+    min-height: 800px;
+    background-image: url(../images/couple.jpg);
+    background-size: cover;
+    background-position: center;
+   
+}
+
+footer{
+    text-align: center;
+}
