@@ -7,9 +7,11 @@ body{
 }
 
 .first_left_side{
-    align-content: center !important;
-    
+    align-content: center;    
 }
+h1 span{
+    color: blueviolet;    
+ }
 
 .boton{
     padding: 20px;
@@ -19,12 +21,13 @@ p{
     text-align: center;
 }
 h1{
-    color: blueviolet;
+    color: white;
     text-align: center;
     padding: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
 }
+
 .first_img_right_side{
     min-height: 800px;
     background-image: url(../images/couple.jpg);
@@ -34,5 +37,34 @@ h1{
 }
 
 footer{
+    padding-top: 20px;
     text-align: center;
+}
+
+.container-fluid{
+    color: white;
+}
+
+h2{
+    text-align: center;
+    padding-top: 20PX;
+}
+
+.col{
+    background-image: url(../images/proposito.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+    align-content:center;
+    color: rgb(223, 232, 232);
+    text-shadow: 0 0 5px black ;
+}
+
+section span{
+    font-size: 40px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
 }
