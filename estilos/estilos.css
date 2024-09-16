@@ -126,3 +126,15 @@ We have added the border property to demonstrate that the flip itself goes out o
     padding: 20px;
     color: white;
   }
+
+  .col_img{
+    min-height: 450px;
+    background-image: url(../images/Suscribite.png);
+    background-size:contain;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  .col_form{
+    align-content: center;
+  }
