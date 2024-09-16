@@ -43,6 +43,7 @@ footer{
 
 .container-fluid{
     color: white;
+    
 }
 
 h2{
@@ -137,4 +138,17 @@ We have added the border property to demonstrate that the flip itself goes out o
 
   .col_form{
     align-content: center;
+  }
+
+  .ingreso{
+    width: 500px;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+  }
+  .conte_ingresar{
+    min-height: 500px;
+    align-content: center;
+    justify-content: end !important;
+    align-items:center ;
   }
